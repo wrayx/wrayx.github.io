@@ -10,7 +10,7 @@ This post will guide you how to write a post on _Chirpy_ theme. Even if you have
 
 ## Naming and Path
 
-Create a new file named `YYYY-MM-DD-TITLE.EXTENSION`{: .filepath} and put it in the `_posts`{: .filepath} of the root directory. Please note that the `EXTENSION`{: .filepath} must be one of `md`{: .filepath} and `markdown`{: .filepath}. 
+Create a new file named `YYYY-MM-DD-TITLE.EXTENSION`{: .filepath} and put it in the `_posts`{: .filepath} of the root directory. Please note that the `EXTENSION`{: .filepath} must be one of `md`{: .filepath} and `markdown`{: .filepath}. If you want to save time of creating files, please consider using the plugin [`Jekyll-Compose`](https://github.com/jekyll/jekyll-compose) to accomplish this.
 
 ## Front Matter
 
@@ -129,14 +129,14 @@ _Image Caption_
 In order to prevent the page content layout from shifting when the image is loaded, we should set the width and height for each image:
 
 ```markdown
-![Desktop View](/assets/img/sample/mockup.png){: width="700" height="400" }
+![Desktop View](/assets/img/resources/mockup.png){: width="700" height="400" }
 ```
 {: .nolineno}
 
 Starting from _Chirpy v5.0.0_, `height` and `width` support abbreviations (`height` → `h`, `width` → `w`). The following example has the same effect as the above:
 
 ```markdown
-![Desktop View](/assets/img/sample/mockup.png){: w="700" h="400" }
+![Desktop View](/assets/img/resources/mockup.png){: w="700" h="400" }
 ```
 {: .nolineno}
 
@@ -152,21 +152,21 @@ By default, the image is centered, but you can specify the position by using one
   Image will be left aligned in below sample:
 
   ```markdown
-  ![Desktop View](/assets/img/sample/mockup.png){: .normal }
+  ![Desktop View](/assets/img/resources/mockup.png){: .normal }
   ```
   {: .nolineno}
 
 - **Float to the left**
 
   ```markdown
-  ![Desktop View](/assets/img/sample/mockup.png){: .left }
+  ![Desktop View](/assets/img/resources/mockup.png){: .left }
   ```
   {: .nolineno}
 
 - **Float to the right**
 
   ```markdown
-  ![Desktop View](/assets/img/sample/mockup.png){: .right }
+  ![Desktop View](/assets/img/resources/mockup.png){: .right }
   ```
   {: .nolineno}
 
@@ -175,7 +175,7 @@ By default, the image is centered, but you can specify the position by using one
 The screenshots of the program window can be considered to show the shadow effect, and the shadow will be visible in the `light` mode:
 
 ```markdown
-![Desktop View](/assets/img/sample/mockup.png){: .shadow }
+![Desktop View](/assets/img/resources/mockup.png){: .shadow }
 ```
 {: .nolineno}
 
@@ -343,3 +343,4 @@ If you want to display the **Liquid** snippet, surround the liquid code with `{%
 ````
 
 Or adding `render_with_liquid: false` (Requires Jekyll 4.0 or higher) to the post's YAML block.
+

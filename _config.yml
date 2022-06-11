@@ -21,9 +21,9 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: wray                          # the main title
+title: Wray                          # the main title
 
-tagline: wray's personal website   # it will display as the sub-title
+tagline: Wray's personal website   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   The website lists the projects that wray have done.
