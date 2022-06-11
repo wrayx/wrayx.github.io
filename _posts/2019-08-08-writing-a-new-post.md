@@ -1,18 +1,16 @@
-### Running on the local server
+---
+title: Writing a New Post
+date: 2019-08-08 14:10:00 +0800
+categories: [Blogging]
+tags: [tutorial]
+render_with_liquid: false
+---
 
-```
-bundle exec jekyll s 
-```
-
-### Build on the local server
-
-```
-bundle exec jekyll b
-```
+This post will guide you how to write a post on _Chirpy_ theme. Even if you have previous experience with Jekyll, this article is worth reading, because many features require specific variables to be set.
 
 ## Naming and Path
 
-Create a new file named `YYYY-MM-DD-TITLE.EXTENSION`{: .filepath} and put it in the `_posts`{: .filepath} of the root directory. Please note that the `EXTENSION`{: .filepath} must be one of `md`{: .filepath} and `markdown`{: .filepath}. If you want to save time of creating files, please consider using the plugin [`Jekyll-Compose`](https://github.com/jekyll/jekyll-compose) to accomplish this.
+Create a new file named `YYYY-MM-DD-TITLE.EXTENSION`{: .filepath} and put it in the `_posts`{: .filepath} of the root directory. Please note that the `EXTENSION`{: .filepath} must be one of `md`{: .filepath} and `markdown`{: .filepath}. 
 
 ## Front Matter
 
@@ -345,4 +343,3 @@ If you want to display the **Liquid** snippet, surround the liquid code with `{%
 ````
 
 Or adding `render_with_liquid: false` (Requires Jekyll 4.0 or higher) to the post's YAML block.
-
