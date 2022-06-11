@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   The website lists the projects that wray have done.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://wrayx.xyz/'
 
 github:
   username: wrayx             # change to your github username
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets/img/resources/notion-avatar.jpg"
+avatar: 'https://avatars.githubusercontent.com/u/38561534?v=4'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
