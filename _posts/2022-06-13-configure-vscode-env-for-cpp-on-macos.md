@@ -5,7 +5,7 @@ categories: [Programming, C++]
 tags: [snippets]
 ---
 
-This is a tutorial on VSCode environment setup for C++ on MacOS platform. The MacOS version here used is Monterey Version 12.4.  Is does not require you to download the heacy weight XCode Application if you don't really need it for devlopment. The command line tools and homebrew, however, are required. You can install them with those two commands.
+This is a tutorial on VSCode environment setup for C++ on MacOS platform. The MacOS version here used is Monterey Version 12.4.  It does not require you to download the heavy weight XCode Application if you don't really need it for your devlopment workflow. The command line tools and homebrew, however, are required. You can install both of them with using those two commands.
 ```shell
 xcode-select –install
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -14,15 +14,16 @@ Now, shall we start.
 
 
 ## Installing CMake
-CMake can either be installed from its [official website](https://cmake.org/download/) as a GUI application or with the Homebrew command line tool.
+CMake can either be installed from its [official website](https://cmake.org/download/) as a GUI application or with the Homebrew.
 ```shell
 $ brew install cmake
 ```
-If you decide to install it from the website then you will have to open the application and click on the Tool option from the menu bar at top then follows its instruction to set up the command line version.
+If you decide to install CMake from its website, then you will have to open up the application and click on the `Tool` option from the menu bar at top then follows its instruction to set up the command line version.
 
 ![cmake](/assets/img/resources/20220613_imgs/cmake.png){: width="400" }
 
 ## Installing OpenCV
+Now we install opencv using Homebrew.
 ```shell
 $ brew install opencv
 $ brew install pkg-config
@@ -30,7 +31,7 @@ $ brew install pkg-config
 Homebrew will install the OpenCV library into `/usr/local/Cellar/opencv`. The path will be helpful when we configure the VSCode environment later.
 
 ## Create C++ Project
-Now we test the installation by create a working directory.
+Now we can test the installation by creating a C++ project. The firstly step would be to create the working directory.
 ```shell
 $ mkdir demo && cd demo
 ```
@@ -68,7 +69,7 @@ int main(int argc, char** argv) {
 }
 ```
 
-Now, we write the `CMakeLists.txt` file.
+Now, we create the `CMakeLists.txt` file.
 ```cmake
 # Older versions of CMake are likely to work just fine but, since
 # I don't know where to cut off I just use the version I'm using
@@ -79,7 +80,8 @@ project(demo)
 
 # set OpenCV_DIR variable equal to the path to the cmake
 # files within the previously installed opencv program
-set(OpenCV_DIR /Users/path/of/opencv4)
+# you should check the path with your coomputer
+set(OpenCV_DIR /usr/local/Cellar/opencv/opencv4)
 
 # Tell compiler to use C++ 14 features which is needed because
 # Clang version is often behind in the XCode installation
@@ -107,7 +109,7 @@ $ cmake ..
 $ make
 ```
 
-Add a testing image `test.png` into the working directory. The working directory would have a structure like this:
+Add a testing image `test.png` into the working directory. And finally, the working directory would have a structure like this:
 ```
 .
 ├── CMakeLists.txt
@@ -142,7 +144,7 @@ It should opens up a window like as below to display the testing image that you 
 
 ![img-window](/assets/img/resources/20220613_imgs/img_window.png){: width="600" }
 
-## Configure VSCode
+## Configuring VSCode
 Firstly, we install the extension packages for C++.
 
 ![extension](/assets/img/resources/20220613_imgs/extension.png){: width="500" }
@@ -189,7 +191,7 @@ The `.vscode/c_cpp_properties.json` will look something similar to this:
 ```
 
 ## Debugging the Code
-Now it is the time to configure the debugger for our C++ project. It requires a `.vscode/launch.json` for it to work.
+Now it is the time to configure the debugger for the C++ project. It requires a `.vscode/launch.json` for it to work.
 ```json
 {
     "version": "0.2.0",
@@ -210,7 +212,7 @@ Now it is the time to configure the debugger for our C++ project. It requires a 
 }
 ```
 
-The debugger will be running as follows
+We can open up the debugger view from the VSCode sidebar. And It will run as follows:
 
 ![debugger](/assets/img/resources/20220613_imgs/debugger.png)
 
