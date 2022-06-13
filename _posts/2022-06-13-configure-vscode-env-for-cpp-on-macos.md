@@ -59,8 +59,8 @@ int main(int argc, char** argv) {
         return -1;
     }
     
-    cv::namedWindow("Simple Demo", cv::WINDOW_AUTOSIZE);
-    cv::imshow("Simple Demo", img);
+    cv::namedWindow("Demo Picture", cv::WINDOW_AUTOSIZE);
+    cv::imshow("Demo Picture", img);
     
     cv::waitKey(0);
     cv::destroyAllWindows();
