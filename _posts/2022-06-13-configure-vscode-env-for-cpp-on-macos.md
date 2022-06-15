@@ -71,9 +71,8 @@ int main(int argc, char** argv) {
 
 Now, we create the `CMakeLists.txt` file.
 ```cmake
-# Older versions of CMake are likely to work just fine but, since
-# I don't know where to cut off I just use the version I'm using
-cmake_minimum_required(VERSION "3.17")
+# This the cmake version that my machine currently installed
+cmake_minimum_required(VERSION "3.23")
 
 # name of this example project
 project(demo)
@@ -86,6 +85,7 @@ set(OpenCV_DIR /usr/local/Cellar/opencv/opencv4)
 # Tell compiler to use C++ 14 features which is needed because
 # Clang version is often behind in the XCode installation
 set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_OSX_DEPLOYMENT_TARGET 12.30)
 
 # configure the necessary common CMake environment variables
 # needed to include and link the OpenCV program into this
