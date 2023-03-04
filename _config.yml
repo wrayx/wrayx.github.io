@@ -20,7 +20,7 @@ timezone: Europe/London
 
 title: Wray                          # the main title
 
-tagline: Personal space ~   # it will display as the sub-title
+tagline: If life is a movie   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   wray personal website vscode cpp configuration environment macos
@@ -80,7 +80,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'assets/img/resources/notion-avatar.png'
+avatar: 'assets/img/resources/profile_photo.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
