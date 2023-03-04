@@ -1,6 +1,6 @@
 ---
 title: Excellent Sheep 一本打开新认知的书
-date: 2023-01-19 23:00:00 +0000
+date: 2023-02-18 23:00:00 +0000
 categories: [Reading]
 ---
 
