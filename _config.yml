@@ -23,7 +23,7 @@ title: Wray                          # the main title
 tagline: 今晚的风 没有颜色  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  wray personal website vscode cpp configuration environment macos
+  wray wrayx personal website vscode cpp configuration environment macos
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://wrayx.uk'
