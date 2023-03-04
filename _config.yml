@@ -20,7 +20,7 @@ timezone: Europe/London
 
 title: Wray                          # the main title
 
-tagline: If life is a movie   # it will display as the sub-title
+tagline: 今晚的风 没有颜色  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   wray personal website vscode cpp configuration environment macos
