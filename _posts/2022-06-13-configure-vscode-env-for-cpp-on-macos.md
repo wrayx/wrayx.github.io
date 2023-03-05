@@ -79,13 +79,13 @@ project(demo)
 
 # set OpenCV_DIR variable equal to the path to the cmake
 # files within the previously installed opencv program
-# you should check the path with your coomputer
-set(OpenCV_DIR /usr/local/Cellar/opencv/opencv4)
+# you should check the path with your computer
+set(OpenCV_DIR /opt/homebrew/Cellar/opencv/4.5.5_2/include/opencv4)
 
 # Tell compiler to use C++ 14 features which is needed because
 # Clang version is often behind in the XCode installation
 set(CMAKE_CXX_STANDARD 14)
-set(CMAKE_OSX_DEPLOYMENT_TARGET 12.30)
+set(CMAKE_OSX_DEPLOYMENT_TARGET 13.0)
 
 # configure the necessary common CMake environment variables
 # needed to include and link the OpenCV program into this
