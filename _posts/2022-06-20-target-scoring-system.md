@@ -32,6 +32,8 @@ _Output Image_
 
 ## Method 2: Shape Detection
 
+This method uses 
+
 ![shape detection](/assets/img/resources/20220620_imgs/outline.png){: width="500" }
 _Output Image_
 
