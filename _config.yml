@@ -96,7 +96,7 @@ comments:
     issue_term: "title"  # < url | pathname | title | ...>
     label: "utterances 🔮"
     label: "Comments"
-    theme: "photon-dark"
+    theme: "preferred-color-scheme"
     crossorigin: "anonymous"
   # Giscus options › https://giscus.app
   giscus:
