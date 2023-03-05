@@ -16,7 +16,7 @@ Now, shall we start.
 ## Installing CMake
 CMake can either be installed from its [official website](https://cmake.org/download/) as a GUI application or with the Homebrew.
 ```shell
-$ brew install cmake
+$ brew install cmake ninja
 ```
 If you decide to install CMake from its website, then you will have to open up the application and click on the `Tool` option from the menu bar at top then follows its instruction to set up the command line version.
 
