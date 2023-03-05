@@ -2,7 +2,7 @@
 title: Text and Typography
 date: 2019-08-08 11:33:00 +0800
 categories: [Blogging]
-tags: [tutorial]
+tags: [Tutorial, Snippet]
 math: true
 mermaid: true
 ---

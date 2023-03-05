@@ -2,7 +2,7 @@
 title: Configure the VSCode Environment for C++ on MacOS
 date: 2022-06-12 23:00:00 +0000
 categories: [Programming, C++]
-tags: [snippets]
+tags: [Tutorial, Snippet]
 ---
 
 This is a tutorial on VSCode environment setup for C++ on MacOS platform. The MacOS version here used is Monterey Version 12.4.  It does not require you to download the heavy weight XCode Application if you don't really need it for your devlopment workflow. The command line tools and homebrew, however, are required. You can install both of them with using those two commands.

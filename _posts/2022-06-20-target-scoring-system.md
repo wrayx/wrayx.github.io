@@ -2,7 +2,7 @@
 title: The Development of the Target Scoring System
 date: 2022-06-20 19:00:00 +0800
 categories: [Project]
-tags: [project, c++]
+tags: [Project, C++]
 ---
 
 # Stage 1: Target Board Image Retrieval
