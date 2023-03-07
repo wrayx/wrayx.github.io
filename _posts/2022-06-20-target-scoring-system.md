@@ -5,7 +5,7 @@ categories: [Project]
 tags: [Project, C++]
 ---
 
-![10m-air-rifle-target](../assets/img/resources/20220620_imgs/10m-air-rifle-target.jpg){: width="450" }
+![10m-air-rifle-target](/assets/img/resources/20220620_imgs/10m-air-rifle-target.jpg){: width="450" }
 
 # Stage 1: Target Board Image Retrieval
 
