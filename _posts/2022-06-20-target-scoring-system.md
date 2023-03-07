@@ -1,5 +1,5 @@
 ---
-title: The Development of the Target Scoring System
+title: A Visual Based Shot Tracking System For Target Shooting
 date: 2022-06-20 19:00:00 +0800
 categories: [Project]
 tags: [Project, C++]
