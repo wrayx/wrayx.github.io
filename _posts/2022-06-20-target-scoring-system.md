@@ -31,16 +31,16 @@ Provided we have enough key-point matches and correspondences, we can then compu
 
 ```c++
 // find homography
-    cv::Mat homography;
-    if (good_matches.size() >= 4)
-    {
-        homography =
-            cv::findHomography(input_img_matched_keypoints, ref_img_matched_keypoints, cv::RANSAC);
-    }
-    else return -1;
+cv::Mat homography;
+if (good_matches.size() >= 4)
+{
+    homography =
+        cv::findHomography(input_img_matched_keypoints, ref_img_matched_keypoints, cv::RANSAC);
+}
+else return -1;
 
-    cv::Mat warped_img;
-    cv::warpPerspective(input_img, warped_img, homography, reference_img.size());
+cv::Mat warped_img;
+cv::warpPerspective(input_img, warped_img, homography, reference_img.size());
 ```
 
 The warped output image looks like this: All output images are the same size as the template image, which is `1080x1080px`. Then we can pass it down to the next stage.
