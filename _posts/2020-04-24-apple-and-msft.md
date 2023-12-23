@@ -1,5 +1,5 @@
 ---
-title: 🤯 The drama between Apple and MSFT | YouTube
+title: 苹果微软的那些陈年往事 | YouTube
 date: 2020-04-24 22:00:00 +0000
 categories: [YouTube]
 tags: [Apple, Microsoft]

@@ -26,13 +26,13 @@ _The Art of Loving is a 1956 book by psychoanalyst and social philosopher Erich 
 成熟的爱并不是与生俱来的，它是自婴儿时起从父母亲人及周围人那里学习体验逐步获得的，有很多人因环境和个人因素止步于某个阶段，因此只有少部分人具备这种“成熟的爱”，成长为“成熟的人”。
 
 
-*It takes many years from this first beginning to the maturing of love. Eventually the child, who may now be an adolescent, has overcome his egocentricity; the other person is not any more primarily a means to the satisfaction of his own needs. The needs of the other person are as important as his own—in fact, they have become more important. To give has become more satisfactory, more joyous, than to receive; to love, more important even than being loved. By loving, he has left the prison cell of aloneness and isolation which was constituted by the state of narcissism and self-centredness. He feels a sense of new union, of sharing, of oneness. More than that, he feels the potency of producing love by loving—rather than the dependence of receiving by being loved—and for that reason having to be small, helpless, sick—or “good.” Infantile love follows the principle: “I love because I am loved.” Mature love follows the principle: “I am loved because I love.” Immature love says: “I love you because I need you.” Mature love says: “I need you because I love you.*
+> *It takes many years from this first beginning to the maturing of love. Eventually the child, who may now be an adolescent, has overcome his egocentricity; the other person is not any more primarily a means to the satisfaction of his own needs. The needs of the other person are as important as his own—in fact, they have become more important. To give has become more satisfactory, more joyous, than to receive; to love, more important even than being loved. By loving, he has left the prison cell of aloneness and isolation which was constituted by the state of narcissism and self-centredness. He feels a sense of new union, of sharing, of oneness. More than that, he feels the potency of producing love by loving—rather than the dependence of receiving by being loved—and for that reason having to be small, helpless, sick—or “good.” Infantile love follows the principle: “I love because I am loved.” Mature love follows the principle: “I am loved because I love.” Immature love says: “I love you because I need you.” Mature love says: “I need you because I love you.*
 
 孩子，或者说已经长大的成人，终将克服以自我为中心的阶段，他人，将不再是其实现个人愿望的工具，他人的要求与自己的要求同等重要——事实上也许更为重要。给予，比单纯的索取更能使自己感到满足，更能使自己快乐；主动地去爱，比被动接受爱更为重要。通过爱，他才得以从这个用孤独铸成的牢笼中解脱开来，他开始通过关心他人以及分享来达成与外界的交流和团圆。更为重要的是，他开始感受如何通过自己的爱，而产生爱的力量。他不再通过生病，或使自己变得渺小、孤立无援从而被动地获取爱。因此，天真的、孩童般的爱情遵循的原则是：“我爱，因为我被爱。” 而成熟的爱的原则是：“我被爱，因为我爱。
 
 **不成熟的、幼稚的爱是：“我爱你，因为我需要你”，而成熟的爱是：“我需要你，因为我爱你。**
 
-> 两个迄今为止同我们一样是相互陌生的人，当他们突然决定拆除使他俩分隔的那堵高墙，相许对方，融为一体时，他俩相结合的一刹那就成为最幸福、最激动人心的经历。这一经历对那些迄今为止没有享受过爱情的孤独者来说就更显美好和不可思议。这种男女之间突如其发的奇迹般的亲密之所以容易发生，往往是同性的吸引力和性结合密切相关或者恰恰是由此而引起的。但这种类型的爱情就其本质来说不可能持久。这两个人虽然熟谙对方，但他俩之间的信任会越来越失去其奇迹般的特点，一直到隔坤、失望和无聊把一息尚存的魅力都抹掉为止。当然一开始双方都不会想到这点。事实是：人们往往把这种如痴如醉的入迷，疯狂的爱恋看作是强烈爱情的表现，而实际上这只是证明了这些男女过去是多么地寂寞。
+<!-- > 两个迄今为止同我们一样是相互陌生的人，当他们突然决定拆除使他俩分隔的那堵高墙，相许对方，融为一体时，他俩相结合的一刹那就成为最幸福、最激动人心的经历。这一经历对那些迄今为止没有享受过爱情的孤独者来说就更显美好和不可思议。这种男女之间突如其发的奇迹般的亲密之所以容易发生，往往是同性的吸引力和性结合密切相关或者恰恰是由此而引起的。但这种类型的爱情就其本质来说不可能持久。这两个人虽然熟谙对方，但他俩之间的信任会越来越失去其奇迹般的特点，一直到隔坤、失望和无聊把一息尚存的魅力都抹掉为止。当然一开始双方都不会想到这点。事实是：人们往往把这种如痴如醉的入迷，疯狂的爱恋看作是强烈爱情的表现，而实际上这只是证明了这些男女过去是多么地寂寞。
 
 >大多数人认为爱情首先是自己能否被人爱，而不是自己有没有能力爱的问题。因此对他们来说，关键是：我会被人爱吗？我如何才能值得被人爱？为了达到这一目的，他们采取了各种途径。男子通常采取的方法是在其社会地位所允许的范围内，尽可能地去获得名利和权力，而女子则是通过保持身段和服饰打扮使自己富有魅力；而男女都喜欢采用的方式则是使自己具有文雅的举止，有趣的谈吐，乐于助人，谦虚和谨慎
 
@@ -366,4 +366,4 @@ _The Art of Loving is a 1956 book by psychoanalyst and social philosopher Erich 
 
 >定向和献身的需要——理性与非理性。 人需要为自己确定一个目标并为之献身，从而赋予生存一种意义。有的人确定的目标符合实际，具有意义
 
->创生性的爱是在保持自我完整性和独立性的同时与他人结为一体，这种爱的基本要素是关心、责任、尊重和理解。弗洛姆还提出了健康的人所应体验到的一些情感，包括淡薄、温柔、同情、兴趣、责任心和整合性。
+>创生性的爱是在保持自我完整性和独立性的同时与他人结为一体，这种爱的基本要素是关心、责任、尊重和理解。弗洛姆还提出了健康的人所应体验到的一些情感，包括淡薄、温柔、同情、兴趣、责任心和整合性。 -->
